@@ -18,6 +18,7 @@ contenedorLight.addEventListener('click',(e)=>{
     }
 })
 
+
 const aparecerImagen = (imagen)=>{
     imagenLight.src = imagen;
     contenedorLight.classList.toggle('show')
