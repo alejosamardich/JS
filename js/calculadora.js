@@ -11,3 +11,12 @@
     list1.addEventListener('change', onChange);
     list2.addEventListener('change', onChange);
   })();
+
+  const boton = document.getElementById("reserva");
+  boton.addEventListener('click', ()=>{
+    swal ({
+      icon:"success",
+      title: "Reserva Realizada",
+      text: "¡Gracias por volar con nosotros!"
+    });
+  });
