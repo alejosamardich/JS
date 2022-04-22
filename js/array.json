@@ -1,6 +1,8 @@
 [
-    {"nombre" : "24/05/22" , "precio": "29.000", "id": 19},
-    {"nombre" : "03/06/22" , "precio": "17.000", "id": 5},
-    {"nombre" : "05/06/22" , "precio": "6.000", "id": 12}
+    {"salida" : "Buenos Aires/Tokio" ,"fecha" : "24/05/22" , "precio": "$900", "hora": "19 pm"},
+    {"salida" : "Miami/Berlin" ,"fecha" : "24/05/22" , "precio": "$700", "hora": "7 am"},
+    {"salida" : "Rio/Pekín" ,"fecha" : "24/05/22" , "precio": "$1000", "hora": "1 am"},
+    {"salida" : "Montevideo/Rio" ,"fecha" : "24/05/22" , "precio": "$720", "hora": "8 pm"},
+    {"salida" : "París/Buenos Aires" ,"fecha" : "24/05/22" , "precio": "$600", "hora": "12 am"}
 ]
 
